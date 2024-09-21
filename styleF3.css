@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(236, 209, 173);
+}
+
+.tarolo{
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: -8px;
+}
+
+.vilagosKek{
+    background-color: rgb(114, 233, 241);
+    width: 800px;
+    height: 100px;
+}
+
+.narancs{
+    background-color: orange;
+    width: 100px;
+    height: 500px;
+}
+
+.lila{
+    background-color: purple;
+    width: 100px;
+    height: 500px;
+}
+
+.sotetKek{
+    background-color: blue;
+    width: 800px;
+    height: 100px;   
+}
+
+.piros{
+    background-color: red;
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
+
+.fekete{
+    background-color: black;
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    left: 270%;
+    top: 118%;
+}
